@@ -1,3 +1,7 @@
+#Dataset Folders
+Datasets/
+Final Dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
